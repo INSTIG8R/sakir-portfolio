@@ -99,7 +99,7 @@ svg {
 }
 
 #header h1 a, #header h1 a:hover {
-  color: #dee2e6;
+  color: #2F4F4F;
   line-height: 1;
   display: inline-block;
 }
@@ -132,7 +132,7 @@ svg {
   justify-content: center;
   align-items: center;
   background: rgba(255, 255, 255, 0.1);
-  color: #fff;
+  color: #191970;
   line-height: 1;
   margin-right: 8px;
   border-radius: 50%;
@@ -184,7 +184,7 @@ svg {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #fff;
+  color: #191970;
   font-size: 19px;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -230,7 +230,7 @@ svg {
 }
 
 .mobile-nav-toggle i {
-  color: #fff;
+  color: #191970;
 }
 
 .mobile-nav {
@@ -259,7 +259,7 @@ svg {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #fff;
+  color: 191970fff;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
@@ -293,7 +293,7 @@ svg {
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
-  color: #fff;
+  color: #191970;
 }
 
 /* Header Top */
@@ -303,7 +303,7 @@ svg {
   left: 0;
   top: 0;
   right: 0;
-  background: #09203a;
+  background: #2F4F4F;
 }
 
 #header.header-top .social-links, #header.header-top h2 {
@@ -375,7 +375,7 @@ section .container {
   margin: 0 0 20px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #dee2e6;
+  color: #191970;
   font-family: "Poppins", sans-serif;
 }
 
@@ -384,7 +384,7 @@ section .container {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #dee2e6;
+  background: #191970;
   margin: 4px 10px;
 }
 
@@ -395,7 +395,7 @@ section .container {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #fff;
+  color: #191970;
 }
 
 /*--------------------------------------------------------------
@@ -457,7 +457,7 @@ section .container {
   font-size: 36px;
   display: block;
   font-weight: 600;
-  color: #fff;
+  color: #191970;
 }
 
 .counts .count-box p {
@@ -483,7 +483,7 @@ section .container {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #fff;
+  color: #191970;
 }
 
 .skills .progress .skill .val {
@@ -526,7 +526,7 @@ section .container {
   padding: 0;
   line-height: 1;
   font-size: 16px;
-  color: #fff;
+  color: #191970;
 }
 
 .interests .icon-box:hover {
@@ -554,12 +554,12 @@ section .container {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 45px;
-  color: #fff;
+  color: #191970;
 }
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #999;
+  color: #191970;
   margin: 0 0 0 45px;
 }
 
@@ -624,7 +624,7 @@ section .container {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #fff;
+  color: 191970;
 }
 
 .resume .resume-item {
@@ -703,7 +703,7 @@ section .container {
 }
 
 .services .icon-box .icon i {
-  color: #fff;
+  color: 191970;
   font-size: 28px;
 }
 
@@ -727,7 +727,7 @@ section .container {
 }
 
 .services .icon-box h4 a {
-  color: #fff;
+  color: 191970;
 }
 
 .services .icon-box p {
@@ -742,7 +742,7 @@ section .container {
 }
 
 .services .icon-box:hover .icon {
-  background: #fff;
+  background: 191970;
 }
 
 .services .icon-box:hover .icon i {
@@ -781,7 +781,7 @@ section .container {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #fff;
+  color: 191970;
   background: rgba(255, 255, 255, 0.1);
   margin: 0 3px 10px 3px;
   transition: all 0.3s ease-in-out;
@@ -841,8 +841,8 @@ section .container {
   position: absolute;
   top: 35px;
   left: 35px;
-  border-top: 3px solid #fff;
-  border-left: 3px solid #fff;
+  border-top: 3px solid 191970;
+  border-left: 3px solid 191970;
   transition: all 0.5s ease 0s;
   z-index: 9994;
 }
@@ -855,20 +855,20 @@ section .container {
   position: absolute;
   bottom: 35px;
   right: 35px;
-  border-bottom: 3px solid #fff;
-  border-right: 3px solid #fff;
+  border-bottom: 3px solid 191970;
+  border-right: 3px solid 191970;
   transition: all 0.5s ease 0s;
   z-index: 9994;
 }
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #fff;
+  color: 191970;
   font-weight: 600;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: #ffffff;
+  color: 191970fff;
   font-size: 14px;
   text-transform: uppercase;
   padding: 0;
@@ -881,7 +881,7 @@ section .container {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #fff;
+  color: 191970;
   margin: 0 2px;
   font-size: 28px;
   display: inline-block;
@@ -926,7 +926,7 @@ section .container {
 
 .contact .info-box i.bx {
   font-size: 26px;
-  color: #fff;
+  color: 191970;
   border-radius: 50%;
   padding: 12px;
   float: left;
@@ -951,7 +951,7 @@ section .container {
 
 .contact .info-box p {
   padding: 0;
-  color: #fff;
+  color: 191970;
   line-height: 24px;
   font-size: 14px;
   margin: 0 0 0 68px;
@@ -965,7 +965,7 @@ section .container {
 .contact .info-box .social-links a {
   font-size: 18px;
   display: inline-block;
-  color: #fff;
+  color: 191970;
   line-height: 1;
   transition: 0.3s;
 }
@@ -1032,7 +1032,7 @@ section .container {
   background: rgba(255, 255, 255, 0.08);
   border: 0;
   transition: 0.3s;
-  color: #fff;
+  color: 191970;
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
@@ -1076,7 +1076,7 @@ section .container {
   background: #12d640;
   border: 0;
   padding: 10px 30px;
-  color: #fff;
+  color: 191970;
   transition: 0.4s;
   border-radius: 4px;
 }
@@ -1111,7 +1111,7 @@ section .container {
   right: 15px;
   bottom: 15px;
   font-size: 13px;
-  color: #fff;
+  color: 191970;
   z-index: 1;
 }
 
@@ -1121,7 +1121,7 @@ section .container {
 }
 
 .credits a:hover {
-  color: #fff;
+  color: 191970;
 }
 
 @media (max-width: 992px) {
